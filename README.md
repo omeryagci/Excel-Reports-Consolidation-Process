@@ -6,14 +6,14 @@
    - [Genel Açıklama](#genel-açıklama)
    - [Adım Adım Süreç](#adım-adım-süreç)
    - [Robot Yolu](#robot-yolu)
-   - ["Teams" Excel Örneği](#teams-excel-örneği)
-   - [Çıktı Excel Örneği](#çıktı-excel-örneği)
+   - ["Coffee Shop" Excel Örneği](#coffee-shop-excel-örneği)
+   - ["Sales Results" Excel Örneği](#sales-results-excel-örneği)
 2. [ENG](#eng)
    - [General Description](#general-description)
    - [Step-by-Step Process](#step-by-step-process)
    - [Robot Path](#robot-path)
-   - ["Teams" Excel Example](#teams-excel-example)
-   - [Output Excel Example](#output-excel-example)
+   - ["Coffee Shop" Excel Example](#coffee-shop-excel-example)
+   - ["Sales Results" Excel Example](#sales-results-excel-example)
 
 ## [TR]
 
